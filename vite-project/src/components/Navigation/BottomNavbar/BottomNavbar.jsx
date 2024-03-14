@@ -9,7 +9,7 @@ export const BottomNavbar = () => {
             <div className='Bottom-Navigation-Main-Container'>
               
                     <nav>
-                        <div>Botom naviagation</div>
+                      
                         <Link to="/">Home</Link>
                         <Link to="/about">About</Link>
                         <Link to="/contact">Contact</Link>
